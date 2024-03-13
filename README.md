@@ -1,0 +1,2 @@
+You are developing a text editor application that needs to support various text formatting options such as bold, italic, underline, and strikethrough. 
+However, you want the text formatting behavior to be easily extensible and interchangeable. Implement the text formatting functionality using the Strategy Design Pattern.
